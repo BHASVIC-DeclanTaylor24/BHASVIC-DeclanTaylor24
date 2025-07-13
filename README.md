@@ -41,7 +41,7 @@ Teamwork - I like to work with other people to get things done as it allows more
 
 ## Links to Repositories
 
-[GitHub Repository](https://github.com/BHASVIC-DeclanTaylor24/JDL-corporation)  
+https://github.com/BHASVIC-DeclanTaylor24/JDL-corporation  
 This task was where we had to create a computer system for a hotel so they could check in and check out people and also make dinner reservations it was created in C.  What i learnt from that task was how you are able to get a few different different sets of code and then are able to conbined them together. Also it showed that you should create flowcharts and diagrams before starting this is because then you are able to see where you are at and it can make it much less confusing when you have to do a lot.  
 
 https://github.com/BHASVIC-CompSci/animalopoly-BHASVIC-DeclanTaylor24  
