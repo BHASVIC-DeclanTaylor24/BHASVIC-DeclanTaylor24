@@ -38,6 +38,7 @@ Problem Solving - I am good and enjoy solving difficult problems and finding new
 Adaptability - I am able to change what i need to do to be able for a program to work if it doesnt work the first time or be able to change it if its not what others would like it to be and also be able to learn new ways to do things to make it easier and better. Also using other peoples such as shareholders feedback to change and adapt what i have done to make it better for there personal use.  
 Teamwork - I like to work with other people to get things done as it allows more ideas to be used and if one person is stuck another will be able to help them i also work well in a team as i can communicate well with people.  
 Time Management - I am good with being able to set out my time and reach target by dates that i set this is shown i when i done my coursework and before i started anything i set out a timetable for when certain things had to be finished and then using this i was able to keep on track with it and finish on time.  
+Communication - I am able to talk to different people such as shareholders and people intrested in the program to get there takes and ideas on what should be included and changed. I am then able to get all of this feedback and actually implemented while still working with them to make it the best it possably can be.  
 
 
 ## Links to Repositories
