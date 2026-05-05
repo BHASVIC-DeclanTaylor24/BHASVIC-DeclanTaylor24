@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Who Am I
-I am someone who likes to work out problems and also i like to create programs that can help if its a simulator or a website. i am someone who will help people solve problems that they have. I am also interested in maths and economics.  
+I am someone who likes to work out problems and also i like to create programs that can help if its a simulator or a website. i am someone who will help people solve problems that they have. I am also interested in maths and economics and how all three subjects can connect together and work around each other.  
 
 ## Professional Goals
 In the future i would like to become skilled data analysit or data scientist this is because i find using data and trying to make sense of it and then creating things out of that very interesting. Also in a team which will be able to innovate and create new things using programs.  
@@ -35,7 +35,7 @@ GCSE Maths - Grade 7
 
 ## Soft Skills
 Problem Solving - I am good and enjoy solving difficult problems and finding new ways to do things.  
-Adaptability - I am able to change what i need to do to be able for a program to work if it doesnt work the first time or be able to change it if its not what others would like it to be and also be able to learn new ways to do things to make it easier and better.  
+Adaptability - I am able to change what i need to do to be able for a program to work if it doesnt work the first time or be able to change it if its not what others would like it to be and also be able to learn new ways to do things to make it easier and better. Also using other peoples such as shareholders feedback to change and adapt what i have done to make it better for there personal use.  
 Teamwork - I like to work with other people to get things done as it allows more ideas to be used and if one person is stuck another will be able to help them i also work well in a team as i can communicate well with people.  
 
 
@@ -53,3 +53,5 @@ In this Repository it is just different tasks about java coding and what it is. 
 https://github.com/BHASVIC-CompSci/homework-BHASVIC-DeclanTaylor24  
 In this repository it it many different bits of code that range from java to C. It is work that that is used so that i can refresh my memory on what it is and how to use it so that i dont use it for a long time and then i cant remember how to use it. This makes sure that i can as i have to do it often.
 
+https://github.com/BHASVIC-DeclanTaylor24/Coursework
+In this repository it shows the coursework that i had to do for my A level Computer Science. In doing my coursework it has taught me how i can use many things that i have learnt and connect them all together to create on program. It has also helped me to be able to explain code and what i am doing in greater detail. It has also shown me why every stage is important and why planning things out first is a good habbit to do as well as also testing code so that i can fix and improve stuff as i go along. Also it has helped me understand why it is good to use shareholders and get there feedback so i can tailor it more to them.
